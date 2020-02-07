@@ -4,3 +4,8 @@
  Optimization”, SIAM Journal on Applied Algebraic Geometry, 2019.
  
  1.2) Code: https://github.com/anirudhamajumdar/spotless/tree/spotless_isos 
+ 
+ 
+
+
+Examples: Lecture 6, Pages 59, 60, 61, 62, 118.
