@@ -4,3 +4,6 @@
  SOS Lyapunov Function Search for Nonliner System dx(t)/dt=f(x):  
  
  V(0)=0,    V(x):SOS,     -dV(x)/dt:SOS
+
+
+Example: Lecture 3, Page 81.
