@@ -8,3 +8,8 @@
 3.3) Zheng, Y., Fantuzzi, G., & Papachristodoulou, A. “Sparse sum-of-squares (SOS) optimization: A bridge between DSOS/SDSOS and SOS optimization for sparse polynomials”, arXiv preprint arXiv:1807.05463. 2018.
 
 3.4) Code: https://github.com/zhengy09/sos_csp
+
+
+
+
+Examples: Lecture 6, Pages 115, 118.
